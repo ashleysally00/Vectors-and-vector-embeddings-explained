@@ -1,4 +1,4 @@
-# What Are Vectors in machine learning?
+# What Are Vectors in Machine Learning?
 
 Imagine you want to teach a computer the meaning of words. How would you do it? You can't just feed it a dictionary definition—computers don't understand language like humans do. This is where vector embeddings come in.
 
