@@ -1,4 +1,4 @@
-# Understanding Vectors in Adobe Illustrator and Machine Learning
+# Understanding Vectors in Adobe Illustrator and in Machine Learning
 
 At their core, vectors are a set of numbers used to represent information. They can describe positions, relationships, or attributes—such as the coordinates of a point or the features of an object. Vectors appear in both graphic design and machine learning, but they serve different purposes. Here's a deeper look into how they compare:
 
